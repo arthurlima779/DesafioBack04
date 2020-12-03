@@ -1,0 +1,19 @@
+{
+  "name": "desafioback04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurlima779/DesafioBack04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurlima779/DesafioBack04/issues"
+  },
+  "homepage": "https://github.com/arthurlima779/DesafioBack04#readme"
+}
